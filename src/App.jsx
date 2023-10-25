@@ -1,6 +1,6 @@
 import './styles/App.css'
 
-import Header from './components/Header'
+import Header from './components/header/Header'
 import Nav from './components/Nav'
 import Main from './components/Main'
 
